@@ -1,0 +1,2 @@
+- 📄 [Comandos SQL: DDL](Banco-de-Dados/comandos-sql.md)
+- 📄 [Modelagem Entidade-Relacionamento (E-R)](Banco-de-Dados/modelo-er.md)
