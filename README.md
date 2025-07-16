@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 - 📄 [Comandos SQL: DDL](Banco-de-Dados/comandos-sql.md)
 - 📄 [Modelagem Entidade-Relacionamento (E-R)](Banco-de-Dados/modelo-er.md)
+- 📘 [Apostila PDF – UC Banco de Dados](Banco-de-Dados/apostila-bd.pdf)
+- 📘 [Modelo de Dados (PDF)](Banco-de-Dados/modelo%20de%20dados.pdf)
+- 📘 [Normalização em Banco de Dados Relacional (PDF)](Banco-de-Dados/Normalizacao-em-Banco-de-Dados-Relacional.pdf)
 =======
 # 📘 +Dev2Blu | Repositório de Estudos
 
