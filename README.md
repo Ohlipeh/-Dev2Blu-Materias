@@ -65,4 +65,4 @@ Você pode navegar pelas pastas acima para encontrar:
 
 ## 📬 Dúvidas, sugestões ou deseja colaborar?
 
-Entre em contato pelo GitHub ou via Discord do programa +Dev2Blu.
+Entre em contato pelo GitHub ou via LinkeDin Ohlipeh.
