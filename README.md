@@ -44,6 +44,7 @@ Este repositório está em constante crescimento e evolução.
 - 📘 [Apostila PDF – UC Banco de Dados](Banco-de-Dados/Comandos%20-%20UC%20Banco%20de%20Dados.pdf)  
 - 📘 [Modelo de Dados (PDF)](Banco-de-Dados/modelo%20de%20dados.pdf)  
 - 📘 [Normalização em Banco de Dados Relacional (PDF)](Banco-de-Dados/Normalizacao-em-Banco-de-Dados-Relacional.pdf)
+- 📘 [Apostila controle SQL (PDF)](Banco-de-Dados\apostila_controle_sql_mysql.pdf)
 
 ---
 
@@ -52,6 +53,31 @@ Este repositório está em constante crescimento e evolução.
 - 📘 [Guia Completo de Git e GitHub](Git-GitHub/guia-completo.md)
 
 ---
+
+🚀 **Dart** 
+
+- 📘 [Introdução ao Dart (PDF)](Dart\IntroduçãoaoDART.pdf)
+- 📘 [Operadores (PDF)](Dart\Operadores.pdf)
+- 📘 [Tipos de dados e entrada e saída de dados (PDF)](Dart\TiposdeDadoseEntradaeSaídadeDados.pdf)
+- 📘 [Comando condicionais em Dart (PDF)](Dart\1.Comandos-Condicionais-em-Dart.pdf)
+- 📘 [Coalescencia de Nulos em Dart (PDF)](Dart\2.Coalescencia-de-Nulos-em-Dart.pdf)
+- 📘 [Coalescencia x Afirmação de Nulidade (PDF)](Dart\3.CoalescenciaXAfirmaçãoDeNulidade.pdf)
+- 📘 [Laços de repetições em Dart todas as opções (PDF)](Dart\4.Lacos-de-Repeticao-em-Dart-Todas-as-Opcoes.pdf)
+- ⚙️ [Exercício Coalescencia de entrada e saída de dados](Dart\Exercício\coalescencia_entrada_dados.dart)
+- ⚙️ [Exercício Coalescencia Try e Catch](Dart\Exercício\coalescencia_try_catch.dart)
+- ⚙️ [Exercício Coalescencia Afirmação de Nulidade](Dart\CoalescenciaXAfirmaçãoDeNulidade.pptx)
+
+📚 **Material de Apoio:**
+
+- 🔧 [DartPad - Palyground online](https://dartpad.dev/)
+
+📝 **Conteúdos Estudados:**
+- Sintaxe básica, loops e condicionais
+- Funções, coleções (listas, mapas)
+- Classes e POO em Dart
+
+---
+
 
 ## 🛠️ Como utilizar este repositório
 
