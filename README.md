@@ -78,6 +78,12 @@ Este repositório está em constante crescimento e evolução.
 
 ---
 
+ 🧱 **POO - Programação Orientada a Objetos**
+
+- 📘[Introdução POO (PDF)](POO/1-DominandoPOOemDart.pdf)
+- ⚙️[Exercício POO Abstração](POO/Exercícios/1.Abstracao)
+- ⚙️[Exercício POO Classe](POO/Exercícios/2.Classe)
+- ⚙️[Exercício POO Atributos e Métodos](POO/Exercícios/3.Atributos_Metodos)
 
 ## 🛠️ Como utilizar este repositório
 
