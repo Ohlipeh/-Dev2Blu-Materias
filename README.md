@@ -43,6 +43,7 @@ Este repositório está em constante crescimento e evolução.
 - 📄 [Metodologias ágeis para desenvolvimento software (PDF)](Metodologias-Ageis/Slides-Aula1-Agile-Scrum.pdf)
 - 📄 [Metodologias ágeis para desenvolvimento software (PDF)](Slides-Aula2-Agile.pdf)
 
+---
 
 ## 🗄️ Banco de Dados
 
@@ -58,6 +59,14 @@ Este repositório está em constante crescimento e evolução.
 ## 🔧 Git e GitHub
 
 - 📘 [Guia Completo de Git e GitHub](Git-GitHub/guia-completo.md)
+
+---
+
+## 📱 Introdução ao Desenvolvimento Móvel
+
+- 📘 [Panorama Mobile e Tipos de Aplicativos (PDF)](Introducao-Mobile/cenario.pdf)
+- 📘 [Panorama Mobile e Tipos de Aplicativos (PDF)](Introducao-Mobile/RoadMap.pdf)
+- 📘 [Fundamentos com Flutter (PDF)](Introducao-Mobile/O-Poder-do-Flutter-Desenvolvimento-Multiplataforma-Descomplicado.pdf)
 
 ---
 
