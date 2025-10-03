@@ -38,6 +38,12 @@ Este repositório está em constante crescimento e evolução.
 
 ---
 
+## 📊 Metodologias Ágeis
+- 📄 [Metodologias ágeis para desenvolvimento software (PDF)](Metodologias-Ageis/Cartoes-Tarefas-Ficticias-Scrum.pdf)
+- 📄 [Metodologias ágeis para desenvolvimento software (PDF)](Metodologias-Ageis/Slides-Aula1-Agile-Scrum.pdf)
+- 📄 [Metodologias ágeis para desenvolvimento software (PDF)](Slides-Aula2-Agile.pdf)
+
+
 ## 🗄️ Banco de Dados
 
 - 📄 [Comandos SQL: DDL](Banco-de-Dados/comandos-sql.md)  
@@ -55,7 +61,7 @@ Este repositório está em constante crescimento e evolução.
 
 ---
 
-🚀 **React**
+## 🚀 React
 
 - 📘 [Ambiente e primeiros componentes (PDF)](React-Native/React-Native-Revolucionando-o-Desenvolvimento-Mobile.pdf)
 - 📘 [Ambiente e primeiros componentes (PDF)](React-Native/Roteiro-da-Aula.pdf)
@@ -71,7 +77,7 @@ Este repositório está em constante crescimento e evolução.
 
 ---
 
-🚀 **Dart** 
+## 🚀 Dart 
 
 - 📘 [Introdução ao Dart (PDF)](Dart/IntroduçãoaoDART.pdf)
 - 📘 [Operadores (PDF)](Dart/Operadores.pdf)
@@ -95,7 +101,7 @@ Este repositório está em constante crescimento e evolução.
 
 ---
 
- 🧱 **POO - Programação Orientada a Objetos**
+## 🧱 **POO - Programação Orientada a Objetos**
 
 - 📘[Introdução POO (PDF)](POO/1-DominandoPOOemDart.pdf)
 - ⚙️[Exercício POO Abstração](POO/Exercícios/1.Abstracao)
