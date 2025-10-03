@@ -57,7 +57,7 @@ Este repositório está em constante crescimento e evolução.
 
 🚀 **React**
 
-- 📘 [Ambiente e primeiros componentes (PDF)](React-Native\React-Native-Revolucionando-o-Desenvolvimento-Mobile.pdf)
+- 📘 [Ambiente e primeiros componentes (PDF)](React-Native/React-Native-Revolucionando-o-Desenvolvimento-Mobile.pdf)
 - 📘
 - 📘
 - 📘
@@ -65,16 +65,16 @@ Este repositório está em constante crescimento e evolução.
 
 🚀 **Dart** 
 
-- 📘 [Introdução ao Dart (PDF)](Dart\IntroduçãoaoDART.pdf)
-- 📘 [Operadores (PDF)](Dart\Operadores.pdf)
-- 📘 [Tipos de dados e entrada e saída de dados (PDF)](Dart\TiposdeDadoseEntradaeSaídadeDados.pdf)
-- 📘 [Comando condicionais em Dart (PDF)](Dart\1.Comandos-Condicionais-em-Dart.pdf)
-- 📘 [Coalescencia de Nulos em Dart (PDF)](Dart\2.Coalescencia-de-Nulos-em-Dart.pdf)
-- 📘 [Coalescencia x Afirmação de Nulidade (PDF)](Dart\3.CoalescenciaXAfirmaçãoDeNulidade.pdf)
-- 📘 [Laços de repetições em Dart todas as opções (PDF)](Dart\4.Lacos-de-Repeticao-em-Dart-Todas-as-Opcoes.pdf)
-- ⚙️ [Exercício Coalescencia de entrada e saída de dados](Dart\Exercício\coalescencia_entrada_dados.dart)
-- ⚙️ [Exercício Coalescencia Try e Catch](Dart\Exercício\coalescencia_try_catch.dart)
-- ⚙️ [Exercício Coalescencia Afirmação de Nulidade](Dart\CoalescenciaXAfirmaçãoDeNulidade.pptx)
+- 📘 [Introdução ao Dart (PDF)](Dart/IntroduçãoaoDART.pdf)
+- 📘 [Operadores (PDF)](Dart/Operadores.pdf)
+- 📘 [Tipos de dados e entrada e saída de dados (PDF)](Dart/TiposdeDadoseEntradaeSaídadeDados.pdf)
+- 📘 [Comando condicionais em Dart (PDF)](Dart/1.Comandos-Condicionais-em-Dart.pdf)
+- 📘 [Coalescencia de Nulos em Dart (PDF)](Dart/2.Coalescencia-de-Nulos-em-Dart.pdf)
+- 📘 [Coalescencia x Afirmação de Nulidade (PDF)](Dart/3.CoalescenciaXAfirmaçãoDeNulidade.pdf)
+- 📘 [Laços de repetições em Dart todas as opções (PDF)](Dart/4.Lacos-de-Repeticao-em-Dart-Todas-as-Opcoes.pdf)
+- ⚙️ [Exercício Coalescencia de entrada e saída de dados](Dart/Exercício/coalescencia_entrada_dados.dart)
+- ⚙️ [Exercício Coalescencia Try e Catch](Dart/Exercício/coalescencia_try_catch.dart)
+- ⚙️ [Exercício Coalescencia Afirmação de Nulidade](Dart/CoalescenciaXAfirmaçãoDeNulidade.pptx)
 
 📚 **Material de Apoio:**
 
