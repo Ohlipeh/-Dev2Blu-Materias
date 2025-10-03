@@ -58,9 +58,17 @@ Este repositório está em constante crescimento e evolução.
 🚀 **React**
 
 - 📘 [Ambiente e primeiros componentes (PDF)](React-Native/React-Native-Revolucionando-o-Desenvolvimento-Mobile.pdf)
-- 📘
-- 📘
-- 📘
+- 📘 [Ambiente e primeiros componentes (PDF)](React-Native/Roteiro-da-Aula.pdf)
+- 📘 [Desafio Componentes (PDF)](React-Native/Enunciado-de-Projeto.pdf)
+- 📘 [Estilos e Layout (ZIP)](React-Native/estilosapp.zip)
+- 📘 [Estilos e Layout (ZIP)](React-Native/galeriaanimais.zip)
+- 📘 [Desafio Login (PDF)](React-Native/Atividade-EAD-nr-2-Aula-4.pdf)
+- 📘 [Estados e Inputs (ZIP)](React-Native/formulario.zip)
+- 📘 [ Armazenamento Local (ZIP)](localStorJson.zip)
+- 📘 [Listas Dinâmicas (PDF)](O-COMANDO-EXPORT.pdf)
+- 📘 [Listas Dinâmicas (PDF)](O-USO-DOS-SERVIDORES.pdf)
+- 📘 [Listas Dinâmicas (ZIP)](src.zip)
+
 ---
 
 🚀 **Dart** 
