@@ -17,6 +17,7 @@ Aqui organizo todas as disciplinas, projetos práticos e anotações teóricas a
 | 🇺🇸 Inglês Técnico                      | Vocabulário técnico, expressões comuns em programação e conversação |
 | 🎯 React Native                          | Sintaxe, estruturas de controle, funções, listas e orientação a objetos |
 | 🎯 Dart                                  | Sintaxe, estruturas de controle, funções, listas e orientação a objetos |
+| 🎯 Conteinerização e Oquestração         | Docker, Kubernetes, Contêineres, Clusters, Escala, Automação.| 
 | 💙 Flutter                               | Widgets, navegação, layouts, projetos e integração com backend |
 
 ---
@@ -34,7 +35,7 @@ Cada diretório contém:
 ## 💡 Progresso
 
 Este repositório está em constante crescimento e evolução.  
-📅 Última atualização: Julho/2025
+📅 Última atualização: Outubro/2025
 
 ---
 
@@ -67,6 +68,15 @@ Este repositório está em constante crescimento e evolução.
 - 📘 [Panorama Mobile e Tipos de Aplicativos (PDF)](Introducao-Mobile/cenario.pdf)
 - 📘 [Panorama Mobile e Tipos de Aplicativos (PDF)](Introducao-Mobile/RoadMap.pdf)
 - 📘 [Fundamentos com Flutter (PDF)](Introducao-Mobile/O-Poder-do-Flutter-Desenvolvimento-Multiplataforma-Descomplicado.pdf)
+
+---
+
+## 🧱 **POO - Programação Orientada a Objetos**
+
+- 📘[Introdução POO (PDF)](POO/1-DominandoPOOemDart.pdf)
+- ⚙️[Exercício POO Abstração](POO/Exercícios/1.Abstracao)
+- ⚙️[Exercício POO Classe](POO/Exercícios/2.Classe)
+- ⚙️[Exercício POO Atributos e Métodos](POO/Exercícios/3.Atributos_Metodos)
 
 ---
 
@@ -110,12 +120,19 @@ Este repositório está em constante crescimento e evolução.
 
 ---
 
-## 🧱 **POO - Programação Orientada a Objetos**
+## 🎯 Conteinerização e Oquestração
 
-- 📘[Introdução POO (PDF)](POO/1-DominandoPOOemDart.pdf)
-- ⚙️[Exercício POO Abstração](POO/Exercícios/1.Abstracao)
-- ⚙️[Exercício POO Classe](POO/Exercícios/2.Classe)
-- ⚙️[Exercício POO Atributos e Métodos](POO/Exercícios/3.Atributos_Metodos)
+- 📘 [Instalção Docker (PDF)](Conteinerizacao-e-Oquestracao/Instalacao-Docker)
+- 📘 [Introdução ao Docker (PDF)](Conteinerizacao-e-Oquestracao/Introducao-ao-Docker)
+- 📘 [Criação e Desenvolvimento com Containers (PDF)](Conteinerizacao-e-Oquestracao/Criacao-Desenvolvimento -Containers.pdf)
+
+---
+
+## 💙 Flutter
+
+- 📘 [Estrutura Básica de um App Flutter (PDF)](Flutter/Estrutura-Básica-de-um-App-Flutter.pdf)
+
+---
 
 ## 🛠️ Como utilizar este repositório
 
