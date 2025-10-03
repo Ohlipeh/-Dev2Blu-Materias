@@ -7,16 +7,17 @@ Aqui organizo todas as disciplinas, projetos práticos e anotações teóricas a
 
 ## 🚀 Índice de Conteúdo
 
-| Matéria                         | Descrição                                                     |
-|--------------------------------|---------------------------------------------------------------|
-| 🌐 Git e GitHub                | Comandos, fluxo de versionamento e boas práticas              |
-| 📊 Metodologias Ágeis          | Scrum, Kanban, Sprints, papéis e rituais do desenvolvimento ágil |
-| 📱 Introdução ao Desenvolvimento Móvel | Conceitos iniciais sobre apps, navegação e fundamentos móveis |
-| 🗄️ Banco de Dados              | Modelagem E-R, comandos SQL, normalização e exercícios práticos |
+| Matéria                                  | Descrição                                                     |
+|------------------------------------------|---------------------------------------------------------------|
+| 🌐 Git e GitHub                          | Comandos, fluxo de versionamento e boas práticas              |
+| 📊 Metodologias Ágeis                    | Scrum, Kanban, Sprints, papéis e rituais do desenvolvimento ágil |
+| 📱 Introdução ao Desenvolvimento Móvel   | Conceitos iniciais sobre apps, navegação e fundamentos móveis |
+| 🗄️ Banco de Dados                       | Modelagem E-R, comandos SQL, normalização e exercícios práticos |
 | 🧱 POO - Programação Orientada a Objetos | Conceitos, exemplos em Dart/Flutter, encapsulamento, herança e mais |
-| 🇺🇸 Inglês Técnico              | Vocabulário técnico, expressões comuns em programação e conversação |
-| 🎯 Dart                       | Sintaxe, estruturas de controle, funções, listas e orientação a objetos |
-| 💙 Flutter                    | Widgets, navegação, layouts, projetos e integração com backend |
+| 🇺🇸 Inglês Técnico                      | Vocabulário técnico, expressões comuns em programação e conversação |
+| 🎯 React Native                          | Sintaxe, estruturas de controle, funções, listas e orientação a objetos |
+| 🎯 Dart                                  | Sintaxe, estruturas de controle, funções, listas e orientação a objetos |
+| 💙 Flutter                               | Widgets, navegação, layouts, projetos e integração com backend |
 
 ---
 
@@ -52,6 +53,14 @@ Este repositório está em constante crescimento e evolução.
 
 - 📘 [Guia Completo de Git e GitHub](Git-GitHub/guia-completo.md)
 
+---
+
+🚀 **React**
+
+- 📘 [Ambiente e primeiros componentes (PDF)](React-Native\React-Native-Revolucionando-o-Desenvolvimento-Mobile.pdf)
+- 📘
+- 📘
+- 📘
 ---
 
 🚀 **Dart** 
